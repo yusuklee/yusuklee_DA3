@@ -11,7 +11,7 @@ headers = {
 
 
 ppp = []
-for i in range(1,400):
+for i in range(1,1000):
     params = {
     "stext": "개발자",
     "FeatureCode": "WRK",
